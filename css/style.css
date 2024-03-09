@@ -1,0 +1,33 @@
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.sub-container {
+    border: solid;
+    margin-top: -1px;
+    padding: 10px;
+    border-color: #999999;
+    border-width: 1px;
+}
+
+.table {
+    margin: 25px;
+}
+
+
+table,
+th,
+td {
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+
+.my_div {
+    background-image: url("../images/936a3cfd8572f61b631dec4e2eda5af79f17e489affba0627eb1eb39695f93dd.png");
+
+}
+
+.my_div2 {
+    background-color: white;
+}
